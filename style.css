@@ -32,7 +32,7 @@ body{
 }
 #carticon{
     padding-right: 3%;
-    margin-top: 2%;
+    margin-top: 10px;
 }
 #p1{
     color: black;
@@ -175,5 +175,6 @@ body{
 .nav-pills .nav-link.active {
     background-color: #0071e3 !important;
 }
+
 
 
